@@ -1,4 +1,4 @@
-# Protibadi-A-safety-weapon
+# Protibadi-An-Android-App-for-Emergency-Help
 Protibadi is an android app, a weapon against some of the current concerns of Bangladesh regarding public harassment and public security (specially for women). It is an android mobile application which is designed to send emergency text message and the current location and of the victim. So, by using the app, anyone can report their current situation, if he/she is in danger. This app can also be connected to a bluetooth device to send text message.
 
 ## Screenshots
